@@ -14,4 +14,4 @@
 <div id="heythere" align="center">
 <h1>Профиль на GITHUB</h1>
 </div>D
-### :man_technologist: Обо мне :
+###👨‍💻: Обо мне:
