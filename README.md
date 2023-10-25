@@ -39,14 +39,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=maYkiss" alt""/>
 </div>
 
-📊: Статистика активности:
-
-<div>
-  <img src="https://github-readme-activity-graph.vercel.app?username=maYkiss&theme=dracula" alt=""/>
-</div>
-
 ⌨️: Наиболее используемые языки :
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maYkiss" alt=""/>
+</div>
+
+📊: Статистика активности:
+
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app?username=maYkiss&theme=dracula" alt=""/>
 </div>
