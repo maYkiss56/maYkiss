@@ -48,5 +48,5 @@
 📊: Статистика активности:
 
 <div>
-  <img src="https://github-readme-activity-graph.vercel.app?username=maYkiss&theme=dracula" alt=""/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maYkiss&theme=dracula" alt=""/>
 </div>
