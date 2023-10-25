@@ -8,7 +8,7 @@
 </div>
 
 <div id="viewprof" align="center">
-  <img src="https://komarev.com/ghpvc/?username=maYkiss&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=maYkiss56&style=flat-square&color=blue" alt=""/>
 </div>
 
 <div id="heythere" align="center">
@@ -36,13 +36,13 @@
 🏆: Достижения :
 
 <div>
-  <img src="https://github-profile-trophy.vercel.app/?username=maYkiss" alt""/>
+  <img src="https://github-profile-trophy.vercel.app/?username=maYkiss56" alt""/>
 </div>
 
 ⌨️: Наиболее используемые языки :
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maYkiss" alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maYkiss56" alt=""/>
 </div>
 
 📊: Статистика активности:
