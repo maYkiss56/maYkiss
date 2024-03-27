@@ -14,13 +14,6 @@
 <div id="heythere" align="center">
 <h1>Профиль на GITHUB</h1>
 </div>
-👨‍💻: Обо мне:
-
-- 🧠: факт обо мне
-  
-- 🦙: факт обо мне
-  
-- 🥇: факт обо мне
 
 🛠️: Языки и инструменты :
 
@@ -29,8 +22,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40">
 </div>
 
 🏆: Достижения :
